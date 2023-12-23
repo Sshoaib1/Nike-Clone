@@ -250,7 +250,7 @@ export const Navbar = () => {
                       }}
                       icon={<BsCart2 />}
                     >
-                      Cart
+                      My Cart
                     </MenuItem>
                     <MenuItem
                       onClick={() => {
