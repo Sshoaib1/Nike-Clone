@@ -66,7 +66,7 @@ const Footer = () => {
               onClick={contact}
               cursor={"pointer"}
             >
-              GET HELP
+              HELP Desk
             </Text>
             <Text onClick={() => navigate("/userprofile")} cursor={"pointer"}>
               Order Status

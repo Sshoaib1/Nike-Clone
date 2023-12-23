@@ -48,7 +48,7 @@ function Home() {
           >
             FEEL IT TO GET IT
           </Heading>
-          <Text>UP TO 70% OFF EVERYTHING!</Text>
+          <Text>UP TO 60% OFF EVERYTHING!</Text>
         </Box>
         <HStack
           width={["100%", "100%", "80%", "80%", "70%"]}
@@ -117,7 +117,7 @@ function Home() {
         m={"auto"}
         marginBottom={3}
       >
-        Featuerd
+        Featured
       </Text>
       <Box
         display={"flex"}

@@ -66,7 +66,7 @@ export const FavouriteItemBox = ({
               className="mt-3"
               onClick={handleDeleteRequest}
             >
-              Remove
+              Remove Item
             </Button>
           </Card.Body>
         </Card>

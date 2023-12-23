@@ -135,7 +135,7 @@ export default function SignupCard() {
                   }}
                   onClick={handleSubmit}
                 >
-                  Sign up
+                  Sign up now
                 </Button>
               </Stack>
               <Stack>

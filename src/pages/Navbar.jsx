@@ -232,7 +232,7 @@ export const Navbar = () => {
                       }}
                       icon={<FaRegHeart />}
                     >
-                      Wishlist
+                      Wishlist/Fav
                     </MenuItem>
                     <MenuItem
                       onClick={() => {
