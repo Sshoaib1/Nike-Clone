@@ -75,9 +75,6 @@ import {
       const { data } = await axios.post("/api/payment/order", {
         amount: orderSummary.total,
       });
-  
-      //Passing order id to razorpay function
-  
 
     };
   
