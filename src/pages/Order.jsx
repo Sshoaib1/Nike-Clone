@@ -7,7 +7,7 @@ import {
   Grid,
   Text,
 } from "@chakra-ui/react";
-import { OrderAddress } from "../components/orders/OrderAddress";
+import OrderAddress  from "../components/orders/OrderAddress";
 import { Loading } from "../components/loading/Loading";
 import { Error } from "../components/loading/Error";
 import { Summary } from "../components/orders/Summary";
